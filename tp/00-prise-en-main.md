@@ -111,5 +111,5 @@ INSERT INTO categorie (libelle) VALUES ('Goûter');
 
 - [ok] L’application tourne (API + interface).
 - [ ] `reponses-niveau-0.md` répond aux 11 questions et contient le tableau 0.4 complet.
-- [ ] Le nom de la gargote est modifié ; *Goûter* existe en base.
-- [ ] Un commit `niveau 0 : prise en main`.
+- [ok] Le nom de la gargote est modifié ; *Goûter* existe en base.
+- [ok] Un commit `niveau 0 : prise en main`.

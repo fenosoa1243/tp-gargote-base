@@ -2,6 +2,9 @@
 --  Gargote — schéma de base (version fournie, NIVEAU 0)
 --  SGBD : PostgreSQL
 --  Exécution : psql -U gargote -d gargote -f 01_schema.sql
+
+-- psql -U gargote -W -d gargote
+--mot de passe : gargote
 -- =============================================================
 
 DROP TABLE IF EXISTS commande_ligne CASCADE;
